@@ -7,7 +7,7 @@ from tensorflow import keras
 import re
 
 # 数据集路径
-DATA_PATH = r'C:\Users\Administrator\Desktop\NLP\seq2seq_char\cmn-eng\cmn.txt'
+DATA_PATH = r'data\cmn.txt'
 # 训练的数据集数目
 NUM_SAMPLE = 1000
 
