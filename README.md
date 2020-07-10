@@ -12,7 +12,7 @@
     
 ## 依赖
 * Python3.6
-* Tensorflow 1.9.0
+* Tensorflow 2.0.2
     
 ## License
 [MIT LICENSE](LICENSE)
